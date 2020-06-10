@@ -1,4 +1,4 @@
-Este projeto foi criado com [Create React App]
+Este projeto foi criado em ReactJS
 
 ## Introdução
 
