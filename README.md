@@ -24,5 +24,4 @@ Tudo pronto em seu navegador irá abrir uma aba direto para a lista de tarefas.
 
 ## Relevante
 
-Conhecendo os componentes de ReactJS, e aplicando a lógica.
-
+Conhecendo os componentes de ReactJS, aplicando a lógica e utilizando diversos métodos que o react proporciona.
